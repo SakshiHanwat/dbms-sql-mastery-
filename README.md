@@ -11,18 +11,98 @@ This repo is designed so that:
 
 ---
 
-## 🧩 What This Repository Covers
+## 🔥 Suggested Repository Names
 
-✔ DBMS fundamentals
-✔ Database architecture
-✔ ER & Extended ER model
-✔ Relational model & keys
-✔ Normalization (1NF → 5NF)
-✔ Relational algebra & calculus
-✔ SQL basics
-✔ Advanced SQL queries
-✔ Practice questions
-✔ Interview-ready concepts
+Choose one (professional + clean):
+
+* **dbms-sql-mastery** ⭐ (recommended)
+* **dbms-to-sql-complete-guide**
+* **dbms-sql-notes-and-practice**
+* **dbms-sql-learning-journey**
+* **complete-dbms-sql-handbook**
+
+---
+
+## 🧩 Curriculum Coverage (What You Will Learn)
+
+This repository follows a **structured DBMS & SQL curriculum**, starting from fundamentals and gradually moving towards advanced and interview-oriented topics.
+
+### 📘 DBMS Core Concepts
+
+* Introduction to DBMS and data management
+* Advantages of DBMS over file systems
+* Components of DBMS
+* Roles of DBA, users, and database designers
+
+### 🏗 Database Architecture & Models
+
+* 1-Tier, 2-Tier, and 3-Tier architecture
+* Types of database models:
+
+  * Hierarchical model
+  * Network model
+  * Relational model
+  * Object-oriented model
+
+### 🧱 ER & Extended ER Model
+
+* Entity, attributes, and relationships
+* Cardinality and participation constraints
+* ER diagrams with real-world examples
+* Weak entities and extended ER concepts
+* Conversion of ER model to relational schema
+
+### 🔑 Relational Model & Keys
+
+* Relational schema and instances
+* Types of keys:
+
+  * Super key
+  * Candidate key
+  * Primary key
+  * Foreign key
+* Integrity constraints and dependencies
+
+### 🧮 Normalization (1NF → 5NF)
+
+* Need for normalization
+* Functional dependencies
+* First Normal Form (1NF)
+* Second Normal Form (2NF)
+* Third Normal Form (3NF)
+* BCNF, 4NF, and 5NF
+* Solved normalization examples
+
+### 📐 Relational Algebra & Calculus
+
+* Basic relational algebra operations
+* Advanced operations with examples
+* Tuple relational calculus
+* Domain relational calculus
+* Conceptual foundation of SQL queries
+
+### 💻 SQL – Basic to Advanced
+
+* Data Definition Language (DDL)
+* Data Manipulation Language (DML)
+* Data Control Language (DCL)
+* Constraints in SQL
+* Joins, subqueries, and nested queries
+* Views, indexes, and transactions
+* Stored procedures and triggers
+
+### 🧪 Practice & Case Studies
+
+* Topic-wise SQL practice questions
+* Real-world database case studies
+* Schema design and query solving
+
+### 🎯 Interview & Revision Focus
+
+* Frequently asked DBMS interview questions
+* Important SQL queries for interviews
+* Key differences and short notes
+* Quick revision guides
 
 ---
 

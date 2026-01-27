@@ -11,18 +11,6 @@ This repo is designed so that:
 
 ---
 
-## 🔥 Suggested Repository Names
-
-Choose one (professional + clean):
-
-* **dbms-sql-mastery** ⭐ (recommended)
-* **dbms-to-sql-complete-guide**
-* **dbms-sql-notes-and-practice**
-* **dbms-sql-learning-journey**
-* **complete-dbms-sql-handbook**
-
----
-
 ## 🧩 Curriculum Coverage (What You Will Learn)
 
 This repository follows a **structured DBMS & SQL curriculum**, starting from fundamentals and gradually moving towards advanced and interview-oriented topics.

@@ -24,6 +24,8 @@ The architecture chosen impacts **performance, scalability, security, and mainte
 
 In **1‑tier DBMS architecture**, the database is **directly accessible by the user**. There is **no separate application or interface layer** between the user and the database.
 
+
+
 ### 🔹 Characteristics
 
 * User directly interacts with the database

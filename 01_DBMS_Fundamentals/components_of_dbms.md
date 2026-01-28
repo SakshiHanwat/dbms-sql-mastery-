@@ -2,7 +2,9 @@
 
 This document explains all the **core components of a Database Management System (DBMS)** in a clear and structured way. Each component plays a crucial role in storing, managing, and retrieving data efficiently.
 
+
 ![DBMS Components](images/comp_image.png)
+
 
 ---
 

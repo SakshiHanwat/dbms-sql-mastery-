@@ -26,6 +26,10 @@ In **1‑tier DBMS architecture**, the database is **directly accessible by the 
 
 
 
+![DBMS Components](images/DBMS-1-Tier-Architecture.webp)
+
+
+
 ### 🔹 Characteristics
 
 * User directly interacts with the database
@@ -65,6 +69,11 @@ In **2‑tier DBMS architecture**, an **Application Layer** exists between the *
 User ↔ Application Layer ↔ DBMS
 ```
 
+
+![DBMS Components](images/2_tier.webp)
+
+
+
 ### 🔹 Role of Application Layer
 
 * Receives user requests
@@ -103,6 +112,11 @@ It is an extension of 2‑tier architecture with an additional **Presentation (G
 ```
 End User ↔ Presentation Layer ↔ Application Layer ↔ DBMS
 ```
+
+
+![DBMS Components](images/3_tier.webp)
+
+
 
 ### 🔹 Layers Explained
 

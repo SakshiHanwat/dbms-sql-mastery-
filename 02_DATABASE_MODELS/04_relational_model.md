@@ -1,7 +1,5 @@
 ## Relational Model in DBMS
 
-Last Updated : 9 Sep, 2025
-
 The Relational Model organizes data using tables (relations) consisting of rows and columns.
 
 The relational model represents how data is stored and managed in Relational Databases where data is organized into tables, each known as a relation.
@@ -95,19 +93,23 @@ It can’t have NULL values.
 
 When one attribute of a relation can only take values from another attribute of the same relation or any other relation, it is called referential integrity.
 
-**Table: STUDENT**
-ROLL_NO | NAME | ADDRESS | PHONE | AGE | BRANCH_CODE
-1 | RAM | DELHI | 9455123451 | 18 | CS
-2 | RAMESH | GURGAON | 9652431543 | 18 | CS
-3 | SUJIT | ROHTAK | 9156253131 | 20 | ECE
-4 | SURESH | DELHI |  | 18 | IT
+**### Table: STUDENT
 
-**Table: BRANCH**
-BRANCH_CODE | BRANCH_NAME
-CS | COMPUTER SCIENCE
-IT | INFORMATION TECHNOLOGY
-ECE | ELECTRONICS AND COMMUNICATION ENGINEERING
-CV | CIVIL ENGINEERING
+| ROLL_NO | NAME   | ADDRESS | PHONE      | AGE | BRANCH_CODE |   
+| ------- | ------ | ------- | ---------- | --- | ----------- | 
+| 1       | RAM    | DELHI   | 9455123451 | 18  | CS          |   
+| 2       | RAMESH | GURGAON | 9652431543 | 18  | CS          |   
+| 3       | SUJIT  | ROHTAK  | 9156253131 | 20  | ECE         |   
+| 4       | SURESH | DELHI   | NULL       | 18  | IT          |   
+
+**### Table: BRANCH
+
+| BRANCH_CODE | BRANCH_NAME                               |
+| ----------- | ----------------------------------------- |
+| CS          | COMPUTER SCIENCE                          |
+| IT          | INFORMATION TECHNOLOGY                    |
+| ECE         | ELECTRONICS AND COMMUNICATION ENGINEERING |
+| CV          | CIVIL ENGINEERING                         |
 
 Explanation: BRANCH_CODE of STUDENT can only take the values which are present in BRANCH_CODE of BRANCH. STUDENT is the REFERENCING RELATION and BRANCH is the REFERENCED RELATION.
 

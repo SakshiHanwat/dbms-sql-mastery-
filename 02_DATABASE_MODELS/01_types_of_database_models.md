@@ -97,7 +97,7 @@ Let's take an example, If we have to design a School Database, then the Student 
 
 Relationships can also be of different types. You can learn about ER Diagrams in detail if you want to learn about entities and relationships.
 
-![DBMS Components](images/entity.jpg)
+![DBMS Components](images/ER_Diagram_MMORPG.png)
 
 
 ### Advantages of the ER Model
@@ -183,7 +183,7 @@ If your application has simple data requirements, then you should not use the gr
 
 In modern applications like social networks, recommendation systems, etc. the graph database model is well-suited.
 
-![DBMS Components](images/images.png)
+![DBMS Components](images/3-Figure1-1.png)
 
 ### Advantages of the Graph Model
 

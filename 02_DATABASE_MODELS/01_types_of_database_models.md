@@ -117,6 +117,9 @@ You can design tables, normalize them to reduce data redundancy, and use Structu
 
 Some of the most popular databases are based on this database model. For example, Oracle, MySQL, etc.
 
+![DBMS Components](images/relational_model.webp
+)
+
 ### Advantages of the Relational Model
 
 * It's simple and easy to implement.

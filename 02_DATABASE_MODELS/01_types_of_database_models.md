@@ -42,6 +42,9 @@ IBM's Information Management System (IMS) is based on this model.
 
 Data is organized into a tree-like structure with a one-to-many relationship between two different types of data, for example, one department can have many courses, many teachers, and of course many students(like shown in the diagram below).
 
+
+![DBMS Components](images/Databases_and_SQL.svg)
+
 ### Advantages/Disadvantages of the Hierarchical Model
 
 Here are a few points to mark the advantages and disadvantages of the Hierarchical database model:

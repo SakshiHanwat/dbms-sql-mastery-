@@ -117,8 +117,7 @@ You can design tables, normalize them to reduce data redundancy, and use Structu
 
 Some of the most popular databases are based on this database model. For example, Oracle, MySQL, etc.
 
-![DBMS Components](images/relational_model.webp
-)
+![DBMS Components](images/relational_model.webp)
 
 ### Advantages of the Relational Model
 
@@ -135,6 +134,8 @@ The behavior of the object-oriented database model is just like object-oriented 
 A very popular example of an Object Database management system or ODBMS is MongoDB which is also a NoSQL database.
 
 This database model is not mature enough as compared to the relational database model.
+
+![DBMS Components](images/relational_model.webp)
 
 ### Advantages of the Object-oriented Model
 
@@ -157,6 +158,8 @@ The support for data querying is limited in the NoSQL database model.
 
 This database model is well-suited for Big data applications, real-time analytics, CMS (Content Management systems), etc.
 
+![DBMS Components](images/relational_model.webp)
+
 ### Advantages of the NoSQL Model
 
 * This database model is scalable.
@@ -176,6 +179,8 @@ The popular database Neo4j is based on the Graph database model.
 If your application has simple data requirements, then you should not use the graph database model.
 
 In modern applications like social networks, recommendation systems, etc. the graph database model is well-suited.
+
+![DBMS Components](images/relational_model.webp)
 
 ### Advantages of the Graph Model
 

@@ -75,6 +75,9 @@ The Network model is difficult to modify also.
 
 You may want to explore this if you are developing some social networking applications, although the Graph Database model is new and is far better than the Network Database model.
 
+![DBMS Components](images/network.png)
+
+
 ### Advantages of the Network Model
 
 * It supports complex relationships

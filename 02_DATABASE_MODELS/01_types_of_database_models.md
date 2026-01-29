@@ -135,7 +135,7 @@ A very popular example of an Object Database management system or ODBMS is Mongo
 
 This database model is not mature enough as compared to the relational database model.
 
-![DBMS Components](images/relational_model.webp)
+![DBMS Components](images/oo.png)
 
 ### Advantages of the Object-oriented Model
 
@@ -158,7 +158,7 @@ The support for data querying is limited in the NoSQL database model.
 
 This database model is well-suited for Big data applications, real-time analytics, CMS (Content Management systems), etc.
 
-![DBMS Components](images/relational_model.webp)
+![DBMS Components](images/download.png)
 
 ### Advantages of the NoSQL Model
 
@@ -180,7 +180,7 @@ If your application has simple data requirements, then you should not use the gr
 
 In modern applications like social networks, recommendation systems, etc. the graph database model is well-suited.
 
-![DBMS Components](images/relational_model.webp)
+![DBMS Components](images/images.png)
 
 ### Advantages of the Graph Model
 

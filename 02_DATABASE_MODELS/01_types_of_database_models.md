@@ -97,6 +97,9 @@ Let's take an example, If we have to design a School Database, then the Student 
 
 Relationships can also be of different types. You can learn about ER Diagrams in detail if you want to learn about entities and relationships.
 
+![DBMS Components](images/entity.jpg)
+
+
 ### Advantages of the ER Model
 
 * It is easy to understand and design.

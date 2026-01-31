@@ -161,7 +161,7 @@ FROM buildings;
 ### Task 3: List all buildings and the distinct employee roles in each building (including empty buildings)
 
 ```sql
-SELECT b.building_name, e.role
+SELECT DISTINCT b.building_name, e.role
 FROM buildings b
 LEFT JOIN employees e
 ON b.building_name = e.building;

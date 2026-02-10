@@ -1,4 +1,4 @@
-# SQL Lesson 9: Queries with Expressions (README)
+# SQL Lesson 9: Queries with Expressions 
 
 ## 📌 Overview
 
